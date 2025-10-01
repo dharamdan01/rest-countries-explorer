@@ -44,9 +44,7 @@ Here’s a quick look at the project:
 
 ## 🌐 Live Demo  
 
-👉 [Click here to view the live app](https://dharamdan01.github.io/rest-countries-explorer/)  
-
-*(Replace the link with your actual GitHub Pages or Netlify deployment link)*  
+👉 [Click Here to See](https://rest-countries-explorer-javascript.netlify.app/)  
 
 ---
 
